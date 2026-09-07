@@ -1,0 +1,15 @@
+{
+  "name": "genpark-elastic-weight-consolidation-fisher-reg-skill",
+  "version": "1.0.0",
+  "description": "Elastic Weight Consolidation (EWC) engine with Fisher Information Matrix regularization.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "elastic-weight-consolidation",
+    "ewc",
+    "catastrophic-forgetting",
+    "fisher-information",
+    "continual-learning"
+  ]
+}
